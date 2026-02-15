@@ -22,5 +22,4 @@ The model is trained and evaluated on the ERA5 reanalysis dataset, which is publ
 You can access and download the WeatherBench data from:
 [**WeatherBench Dataset**](https://mediatum.ub.tum.de/1524895)
 
-optimization study by repeatedly calling the `run_training_job` function from `Run.py`.
 
